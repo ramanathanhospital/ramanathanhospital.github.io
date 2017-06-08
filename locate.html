@@ -1,7 +1,3 @@
----
-layout: default
-title: Reach Us
----
 <!DOCTYPE html>
 <html>
   <head>
@@ -13,37 +9,18 @@ title: Reach Us
     </style>
   </head>
   <body>
-    <h3>Our Location</h3>
-<div id="map"></div>
+    <h3>My Google Maps Demo</h3>
+    <div id="map"></div>
     <script>
-      var map;
-      var maxZoomService;
-      var infoWindow;
-
       function initMap() {
-        map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 11,
-          center: {lat: 10.772749, lng: 79.132861},
-          mapTypeId: 'map'
+        var uluru = {lat: -25.363, lng: 131.044};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 4,
+          center: uluru
         });
-
-        infoWindow = new google.maps.InfoWindow();
-
-        maxZoomService = new google.maps.MaxZoomService();
-
-        map.addListener('click', showMaxZoom);
-      }
-
-      function showMaxZoom(e) {
-        maxZoomService.getMaxZoomAtLatLng(e.latLng, function(response) {
-          if (response.status !== 'OK') {
-            infoWindow.setContent('Error in MaxZoomService');
-          } else {
-            infoWindow.setContent(
-                'The maximum zoom at this location is: ' + response.zoom);
-          }
-          infoWindow.setPosition(e.latLng);
-          infoWindow.open(map);
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
         });
       }
     </script>
