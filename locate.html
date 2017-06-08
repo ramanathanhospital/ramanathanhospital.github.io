@@ -17,13 +17,14 @@ title: Reach Us
 <div id="map"></div>
     <script>
       function initMap() {
-        var uluru = {lat: -25.363, lng: 131.044};
+        var visranthi = {lat: -10.772749, lng: 79.132861};
+
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 4,
-          center: uluru
+          zoom: 6,
+          center: visranthi
         });
         var marker = new google.maps.Marker({
-          position: uluru,
+          position: visranthi,
           map: map
         });
       }
