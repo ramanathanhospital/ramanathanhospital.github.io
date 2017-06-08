@@ -3,9 +3,9 @@ layout: default
 title: Our Team
 ---
 
-# Our Team #
+<h1> Our Team </h1>
 
-<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> #### Dr. R. Kumar BSc MBBS ####
+<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> <h5> Dr. R. Kumar BSc MBBS </h5>
 
 *Senior General Practitioner*
 
@@ -17,7 +17,7 @@ OPD Timings at Dr. Ramanathan Memorial Clinic
 10:30 AM – 1:30 AM on All Days; 5:30 PM – 9 PM Monday through Saturday
 for appointments call: 04362-230009
 
-<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> #### Dr. K. Sathish MD MSc #### # (UK) # #### DLSHTM ####
+<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> <h5> Dr. K. Sathish MD MSc </h5> <h1> (UK) </h1> <h5> DLSHTM </h5>
 *General Physician & Specialist Trainee in Infectious Diseases*
 
 ###### Thyroid & Diabetes Care ######
