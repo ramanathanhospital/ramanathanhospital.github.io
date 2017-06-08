@@ -2,8 +2,7 @@
 layout: default
 title: Our Team
 ---
-<html>
-<body>
+
 <h1> Our Team </h1>
 
 <i class="fa fa-user-md" aria-hidden="true"></i> <h5> Dr. R. Kumar BSc MBBS </h5>
@@ -89,5 +88,3 @@ by appointment only
 <i class="fa fa-user-md fa-1g" aria-hidden="true"></i> 6) Dr. Arunmozhi – Periodontist
 
 by appointment only
-</body>
-</html>
