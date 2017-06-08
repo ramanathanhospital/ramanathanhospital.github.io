@@ -15,20 +15,38 @@ title: Reach Us
   <body>
     <h3>My Google Maps Demo</h3>
 <div id="map"></div>
-    <script>
-      function initMap() {
-        var visranthi = {lat: 10.772749, lng: 79.132861};
+   <script>
+      var map;
+      var maxZoomService;
+      var infoWindow;
 
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 18,
-          center: visranthi
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 11,
+          center: {lat: 10.772749, lng: 79.132861},
+          mapTypeId: 'map'
         });
-        var marker = new google.maps.Marker({
-          position: visranthi,
-          map: map
+
+        infoWindow = new google.maps.InfoWindow();
+
+        maxZoomService = new google.maps.MaxZoomService();
+
+        map.addListener('click', showMaxZoom);
+      }
+
+      function showMaxZoom(e) {
+        maxZoomService.getMaxZoomAtLatLng(e.latLng, function(response) {
+          if (response.status !== 'OK') {
+            infoWindow.setContent('Error in MaxZoomService');
+          } else {
+            infoWindow.setContent(
+                'The maximum zoom at this location is: ' + response.zoom);
+          }
+          infoWindow.setPosition(e.latLng);
+          infoWindow.open(map);
         });
       }
-    </script>
+    </script> 
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVhH9ooLvZlv_TzscUvU6Tl4VKKr9jIsI&callback=initMap">
     </script>
  </body>
