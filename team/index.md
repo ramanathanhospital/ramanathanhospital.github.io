@@ -5,23 +5,24 @@ title: Our Team
 
 # Our Team
 
-<i class="fa-li fa fa-square"></i> Dr. R. Kumar BSc MBBS
+<i class="fa fa-user-md fa-2x" aria-hidden="true"></i></i> #### Dr. R. Kumar BSc MBBS
+
 *Senior General Practitioner*
 
-<i class="fa fa-quote-left fa-3x fa-pull-left fa-border" aria-hidden="true"></i>OPD Timings at Dr. Ramanathan Hospital
+OPD Timings at Dr. Ramanathan Hospital
 8 AM – 9:30 AM on All Days
 for appointments call: 04362-234279
 
-<i class="fa fa-quote-left fa-3x fa-pull-left fa-border" aria-hidden="true"></i>OPD Timings at Dr. Ramanathan Memorial Clinic
+OPD Timings at Dr. Ramanathan Memorial Clinic
 10:30 AM – 1:30 AM on All Days; 5:30 PM – 9 PM Monday through Saturday
 for appointments call: 04362-230009
 
-#### Dr. K. Sathish MD MSc (UK) DLSHTM
+<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> #### Dr. K. Sathish MD MSc (UK) DLSHTM
 *General Physician & Specialist Trainee in Infectious Diseases*
 
 ###### Thyroid & Diabetes Care
 
-#### Dr. K. Prakash MD (Physician) PGDip (Endocrinology & Diabetes, UK) PGDiab (Johns Hopkins) MMED (CMC, Vellore)
+<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> #### Dr. K. Prakash MD # (Physician) #### PGDip # (Endocrinology & Diabetes, UK) #### PGDiab # (Johns Hopkins) #### MMED # (CMC, Vellore)
 *Thyroid, Diabetes & Family Physician*
 
 Young Scientist Member of the European Association for the Study of Diabetes
@@ -54,7 +55,7 @@ for appointments call: 04362-234279; 9486171643
 
 ###### Dental Care 
 
-#### Dr. A. Usha BDS
+<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> #### Dr. A. Usha BDS
 Dental Consultant
 
 <i class="fa fa-quote-left fa-3x fa-pull-left fa-border" aria-hidden="true"></i> OPD Timings at Dr. Ramanathan Hospital – MyDentist Clinic
@@ -63,20 +64,26 @@ Dental Consultant
 for appointments call: 04362-234279
 
 Visiting Consultants:
-1) Dr. Srinivas MDS – Orthodontist
+<i class="fa fa-user-md fa-1g" aria-hidden="true"></i> 1) Dr. Srinivas MDS – Orthodontist
+
 1st Sunday of Every Month
 
-2) Dr. Madhuram MDS – Endodontist
+<i class="fa fa-user-md fa-1g" aria-hidden="true"></i> 2) Dr. Madhuram MDS – Endodontist
+
 Every Alternate Sunday
 
-3) Dr. Sivakumar MDS – Endodontist
+<i class="fa fa-user-md fa-1g" aria-hidden="true"></i> 3) Dr. Sivakumar MDS – Endodontist
+
 by appointment only
 
-4) Dr. Dileepan MDS – Prosthodontist
+<i class="fa fa-user-md fa-1g" aria-hidden="true"></i> 4) Dr. Dileepan MDS – Prosthodontist
+
 by appointment only
 
-5) Dr. Madhusudhanan MDS – Oral Surgeon – Implantologist
+<i class="fa fa-user-md fa-1g" aria-hidden="true"></i> 5) Dr. Madhusudhanan MDS – Oral Surgeon – Implantologist
+
 by appointment only
 
-6) Dr. Arunmozhi – Periodontist
+<i class="fa fa-user-md fa-1g" aria-hidden="true"></i> 6) Dr. Arunmozhi – Periodontist
+
 by appointment only
