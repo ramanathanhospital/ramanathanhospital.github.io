@@ -16,6 +16,5 @@ title: Reach Us
         });
       }
     </script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVhH9ooLvZlv_TzscUvU6Tl4VKKr9jIsI&callback=initMap">
     </script>
