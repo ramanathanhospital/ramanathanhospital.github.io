@@ -5,7 +5,7 @@ title: Our Team
 
 # Our Team
 
-<i class="fa fa-user-md fa-2x" aria-hidden="true"></i></i> #### Dr. R. Kumar BSc MBBS
+<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> #### Dr. R. Kumar BSc MBBS
 
 *Senior General Practitioner*
 
