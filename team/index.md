@@ -5,24 +5,31 @@ title: Our Team
 
 <h1> Our Team </h1>
 
-<i class="fa fa-user-md" aria-hidden="true"></i> <h5> Dr. R. Kumar BSc MBBS </h5>
+<i class="fa fa-user-md fa-1x" aria-hidden="true"></i> 
+<h5> Dr. R. Kumar BSc MBBS </h5>
 
 *Senior General Practitioner*
 
 OPD Timings at Dr. Ramanathan Hospital
+
 8 AM – 9:30 AM on All Days
+
 for appointments call: 04362-234279
 
 OPD Timings at Dr. Ramanathan Memorial Clinic
-10:30 AM – 1:30 AM on All Days; 5:30 PM – 9 PM Monday through Saturday
+
+10:30 AM – 1:30 AM on All Days;
+5:30 PM – 9 PM Monday through Saturday
+
 for appointments call: 04362-230009
 
-<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> <h5> Dr. K. Sathish MD MSc </h5> <h1> (UK) </h1> <h5> DLSHTM </h5>
+ <h5><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Sathish MD MSc </h5> <h1> (UK) </h1> <h5> DLSHTM </h5>
+
 *General Physician & Specialist Trainee in Infectious Diseases*
 
-###### Thyroid & Diabetes Care ######
+## Thyroid & Diabetes Care ##
 
-<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> #### Dr. K. Prakash MD #### # (Physician) # #### PGDip #### # (Endocrinology & Diabetes, UK) # #### PGDiab #### # (Johns Hopkins) # #### MMED #### # (CMC, Vellore) #
+<i class="fa fa-user-md fa-1x" aria-hidden="true"></i> #### Dr. K. Prakash MD #### # (Physician) # #### PGDip #### # (Endocrinology & Diabetes, UK) # #### PGDiab #### # (Johns Hopkins) # #### MMED #### # (CMC, Vellore) #
 *Thyroid, Diabetes & Family Physician*
 
 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Young Scientist Member of the European Association for the Study of Diabetes
