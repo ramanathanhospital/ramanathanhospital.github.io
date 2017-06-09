@@ -4,7 +4,7 @@ title: Our Team
 ---
 
 <h1>Our Team </h1>
-<h2>Family Medicine </h2>
+<h2><u>Family Medicine</u> </h2>
 
 
 <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i>  Dr. R. Kumar BSc MBBS </h3>
@@ -20,19 +20,21 @@ for appointments call: 04362-234279
 
 <h5>Dr. Ramanathan Memorial Clinic, South Main Street</h5>
 
-<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 10:30 AM – 1:30 AM on All Days;
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 10:30 AM – 1:30 AM on All Days
+
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 5:30 PM – 9 PM Monday through Saturday
 
 for appointments call: 04362-230009
 
- <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Sathish </h3> <h5>MD MSc (UK)  DLSHTM </h5>
+ <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Sathish </h3> MD MSc (UK)  DLSHTM
 
 <h5><i>General Physician & Specialist Trainee in Infectious Diseases</i></h5>
 
 
-<h2> Thyroid & Diabetes Care </h2>
+<h2> <u>Thyroid & Diabetes Care </u></h2>
 
-<h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Prakash </h3><h5>MD (Physician) PGDip (Endocrinology & Diabetes, UK) PGDiab (Johns Hopkins) MMED (CMC, Vellore)</h5>
+<h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Prakash </h3>MD (Physician) PGDip (Endocrinology & Diabetes, UK) PGDiab (Johns Hopkins) MMED (CMC, Vellore)
+
 <h5> <i>Thyroid, Diabetes & Family Physician</i></h5>
 
 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Young Scientist Member of the European Association for the Study of Diabetes
@@ -80,17 +82,17 @@ for appointments call: 04362-234279; 9486171643
 
 
 
-<h1> Dental Care </h1>
+<h1> <u>Dental Care </u></h1>
 
-<h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. A. Usha BDS </h3>
+<h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i>Dr. A. Usha BDS </h3>
 <h4><i>Dental Consultant</i></h4>
 
 <h5><B>OPD Timings</B></h5>
 <h5>Dr. Ramanathan Hospital – MyDentist Clinic</h5>
 
-<i class="fa fa-arrow-circle-right" aria-hidden="true">11:00 AM – 1:30 PM on Monday through Saturday
+<i class="fa fa-arrow-circle-right" aria-hidden="true"> 11:00 AM – 1:30 PM on Monday through Saturday
 
-<i class="fa fa-arrow-circle-right" aria-hidden="true">6:30 PM – 8:30 PM on Monday through Saturday
+<i class="fa fa-arrow-circle-right" aria-hidden="true"> 6:30 PM – 8:30 PM on Monday through Saturday
 for appointments call: 04362-234279
 
 <h4>Visiting Consultants:</h4>
