@@ -9,9 +9,9 @@ title: Our Team
 
 <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i>  Dr. R. Kumar BSc MBBS </h3>
 
-<h5><i>Senior General Practitioner</i></h5>
+<i>Senior General Practitioner</i>
 
-<h6><u>OPD Timings</u></h6>
+<h4><u>OPD Timings</u></h4>
 <h5>Dr. Ramanathan Hospital, VOC Nagar</h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 8 AM – 9:30 AM on All Days
@@ -35,7 +35,7 @@ for appointments call: 04362-230009
 
 <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Prakash </h3>MD (Physician) PGDip (Endocrinology & Diabetes, UK) PGDiab (Johns Hopkins) MMED (CMC, Vellore)
 
-<h5> <i>Thyroid, Diabetes & Family Physician</i></h5>
+<i>Thyroid, Diabetes & Family Physician</i>
 
 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Young Scientist Member of the European Association for the Study of Diabetes
 
@@ -51,7 +51,7 @@ for appointments call: 04362-230009
 
  
 
-<h6><u>OPD Timings</u></h6>
+<h4><u>OPD Timings</u></h4>
 <h5> Dr. Ramanathan Hospital, VOC Nagar, Thanjavur</h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 09:00 AM – 1:00 PM Monday through Friday
@@ -85,9 +85,9 @@ for appointments call: 04362-234279; 9486171643
 <h1> <u>Dental Care </u></h1>
 
 <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i>Dr. A. Usha BDS </h3>
-<h4><i>Dental Consultant</i></h4>
+<i>Dental Consultant</i>
 
-<h5><B>OPD Timings</B></h5>
+<h4><B>OPD Timings</B></h4>
 <h5>Dr. Ramanathan Hospital – MyDentist Clinic</h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"> 11:00 AM – 1:30 PM on Monday through Saturday
