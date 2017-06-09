@@ -33,7 +33,7 @@ for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> 04362-230
 
 <h2> <u>Thyroid & Diabetes Care </u></h2>
 
-<h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Prakash MD (Physician) PGDip (Endo & Diabetes, UK) MMED (CMC)
+<h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Prakash MD (Physician) PGDip (Endo & Diabetes, UK) MMED (CMC)</h3>
 
 <i>Thyroid, Diabetes & Family Physician</i>
 
