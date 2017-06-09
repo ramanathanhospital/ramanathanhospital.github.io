@@ -30,7 +30,8 @@ for appointments call: 04362-230009
 
 <h4><i>General Physician & Specialist Trainee in Infectious Diseases</i></h4>
 
-## Thyroid & Diabetes Care ##
+
+<h2> Thyroid & Diabetes Care </h2>
 
 <i class="fa fa-user-md fa-1x" aria-hidden="true"></i> <h3> Dr. K. Prakash </h3>
 <h5>MD (Physician) PGDip (Endocrinology & Diabetes, UK) PGDiab (Johns Hopkins) MMED (CMC, Vellore)</h5>
@@ -59,18 +60,26 @@ for appointments call: 04362-230009
 
 for appointments call: 04362-234279; 9486171643
 
+
+
 <h5> Dr. Ramanathan Memorial Clinic, South Main Street, Thanjavur </h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 6:30 PM – 9:00 PM on Fridays
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 10:30 AM – 1:30 PM on Sundays
 
+
+
 <h5> Mannargudi Visit – SMK Medicals </h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 06:00 PM – 9: 00 PM on Saturdays
 
+
+
 <h5> Pattukottai Visit – Makkal Marundhagam </h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 09:30 AM – 1:00 PM on Saturdays
+
+
 
 # Dental Care #
 
