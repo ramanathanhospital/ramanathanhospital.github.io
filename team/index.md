@@ -3,12 +3,13 @@ layout: default
 title: Our Team
 ---
 
-<h1> Our Team </h1>
+<h1>Our Team </h1>
+<h2>Family Medicine </h2>
 
 <i class="fa fa-user-md fa-1x" aria-hidden="true"></i> 
-<h5> Dr. R. Kumar BSc MBBS </h5>
+<h3> Dr. R. Kumar BSc MBBS </h3>
 
-*Senior General Practitioner*
+<h2>*Senior General Practitioner*</h2>
 
 OPD Timings at Dr. Ramanathan Hospital
 
@@ -23,9 +24,9 @@ OPD Timings at Dr. Ramanathan Memorial Clinic
 
 for appointments call: 04362-230009
 
- <h5><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Sathish MD MSc </h5> <h1> (UK) </h1> <h5> DLSHTM </h5>
+ <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Sathish MD MSc (UK)  DLSHTM </h3>
 
-*General Physician & Specialist Trainee in Infectious Diseases*
+<h4>*General Physician & Specialist Trainee in Infectious Diseases*</h4>
 
 ## Thyroid & Diabetes Care ##
 
@@ -33,10 +34,15 @@ for appointments call: 04362-230009
 *Thyroid, Diabetes & Family Physician*
 
 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Young Scientist Member of the European Association for the Study of Diabetes
+
 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Life Academic Member of the Research Society for the Study of Diabetes in India
+
 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Member of the Endocrine Society
+
 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Member of the American Association of Clinical Endocrinologists
+
 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Member of the European Society of Endocrinology
+
 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Member of Academy of Family Physicians of India
 
  
