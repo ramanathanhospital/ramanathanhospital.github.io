@@ -83,12 +83,14 @@ for appointments call: 04362-234279; 9486171643
 
 # Dental Care #
 
-<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> <h3> Dr. A. Usha BDS  </h3>
+<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> <h3> Dr. A. Usha BDS </h3>
 <h4><i>Dental Consultant</i></h4>
 
 <h5><B>OPD Timings</B></h5>
 <h5>Dr. Ramanathan Hospital – MyDentist Clinic</h5>
+
 <i class="fa fa-arrow-circle-right" aria-hidden="true">11:00 AM – 1:30 PM on Monday through Saturday
+
 <i class="fa fa-arrow-circle-right" aria-hidden="true">6:30 PM – 8:30 PM on Monday through Saturday
 for appointments call: 04362-234279
 
