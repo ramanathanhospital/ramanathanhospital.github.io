@@ -91,12 +91,13 @@ for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> +91-84891
 <i>Dental Consultant</i>
 
 <h4><B>OPD Timings</B></h4>
-<h5><i class="fa fa-hospital-o" aria-hidden="true"></i> Dr. Ramanathan Hospital – MyDentist Clinic</h5>
+<h5><i class="fa fa-hospital-o" aria-hidden="true"></i> Dr. Ramanathan Hospital – My Dentist Clinic</h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"> 11:00 AM – 1:30 PM on Monday through Saturday
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"> 6:30 PM – 8:30 PM on Monday through Saturday
-for appointments call: 04362-234279
+
+for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> 04362-234235
 
 <h4>Visiting Consultants:</h4>
 
