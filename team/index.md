@@ -6,32 +6,35 @@ title: Our Team
 <h1>Our Team </h1>
 <h2>Family Medicine </h2>
 
-<i class="fa fa-user-md fa-1x" aria-hidden="true"></i> 
-<h3> Dr. R. Kumar BSc MBBS </h3>
 
-<h2>*Senior General Practitioner*</h2>
+<h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i>  Dr. R. Kumar BSc MBBS </h3>
 
-OPD Timings at Dr. Ramanathan Hospital
+<h4><i>Senior General Practitioner</i></h4>
 
-8 AM – 9:30 AM on All Days
+<h5>OPD Timings</h5>
+<h5>Dr. Ramanathan Hospital, VOC Nagar</h5>
+
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 8 AM – 9:30 AM on All Days
 
 for appointments call: 04362-234279
 
-OPD Timings at Dr. Ramanathan Memorial Clinic
+<h5>Dr. Ramanathan Memorial Clinic, South Main Street</h5>
 
-10:30 AM – 1:30 AM on All Days;
-5:30 PM – 9 PM Monday through Saturday
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 10:30 AM – 1:30 AM on All Days;
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 5:30 PM – 9 PM Monday through Saturday
 
 for appointments call: 04362-230009
 
- <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Sathish MD MSc (UK)  DLSHTM </h3>
+ <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Sathish </h3>
+ <h5>MD MSc (UK)  DLSHTM </h5>
 
-<h4>*General Physician & Specialist Trainee in Infectious Diseases*</h4>
+<h4><i>General Physician & Specialist Trainee in Infectious Diseases</i></h4>
 
 ## Thyroid & Diabetes Care ##
 
-<i class="fa fa-user-md fa-1x" aria-hidden="true"></i> #### Dr. K. Prakash MD #### # (Physician) # #### PGDip #### # (Endocrinology & Diabetes, UK) # #### PGDiab #### # (Johns Hopkins) # #### MMED #### # (CMC, Vellore) #
-*Thyroid, Diabetes & Family Physician*
+<i class="fa fa-user-md fa-1x" aria-hidden="true"></i> <h3> Dr. K. Prakash </h3>
+<h5>MD (Physician) PGDip (Endocrinology & Diabetes, UK) PGDiab (Johns Hopkins) MMED (CMC, Vellore)</h5>
+<h4> <i>Thyroid, Diabetes & Family Physician</i></h4>
 
 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Young Scientist Member of the European Association for the Study of Diabetes
 
@@ -47,36 +50,40 @@ for appointments call: 04362-230009
 
  
 
-<i class="fa fa-quote-left fa-3x fa-pull-left fa-border" aria-hidden="true"></i> OPD Timings at Dr. Ramanathan Hospital, VOC Nagar, Thanjavur
+<h5><b> OPD Timings </b><h5>
+<h5> Dr. Ramanathan Hospital, VOC Nagar, Thanjavur</h5>
 
-09:00 AM – 1:00 PM Monday through Friday
-6:30 PM – 9:00 PM Monday through Thursday
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 09:00 AM – 1:00 PM Monday through Friday
+
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 6:30 PM – 9:00 PM Monday through Thursday
+
 for appointments call: 04362-234279; 9486171643
 
-##### Dr. Ramanathan Memorial Clinic, South Main Street, Thanjavur #####
+<h5> Dr. Ramanathan Memorial Clinic, South Main Street, Thanjavur </h5>
 
-6:30 PM – 9:00 PM on Fridays
-10:30 AM – 1:30 PM on Sundays
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 6:30 PM – 9:00 PM on Fridays
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 10:30 AM – 1:30 PM on Sundays
 
-##### Mannargudi Visit – SMK Medicals #####
+<h5> Mannargudi Visit – SMK Medicals </h5>
 
-06:00 PM – 9: 00 PM on Saturdays
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 06:00 PM – 9: 00 PM on Saturdays
 
-##### Pattukottai Visit – Makkal Marundhagam ##### 
+<h5> Pattukottai Visit – Makkal Marundhagam </h5>
 
-09:30 AM – 1:00 PM on Saturdays
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 09:30 AM – 1:00 PM on Saturdays
 
-###### Dental Care ###### 
+# Dental Care #
 
-<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> #### Dr. A. Usha BDS  #### 
-Dental Consultant
+<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> <h3> Dr. A. Usha BDS  </h3>
+<h4><i>Dental Consultant</i></h4>
 
-<i class="fa fa-quote-left fa-3x fa-pull-left fa-border" aria-hidden="true"></i> OPD Timings at Dr. Ramanathan Hospital – MyDentist Clinic
-11:00 AM – 1:30 PM on Monday through Saturday
-6:30 PM – 8:30 PM on Monday through Saturday
+<h5><B>OPD Timings</B></h5>
+<h5>Dr. Ramanathan Hospital – MyDentist Clinic</h5>
+<i class="fa fa-arrow-circle-right" aria-hidden="true">11:00 AM – 1:30 PM on Monday through Saturday
+<i class="fa fa-arrow-circle-right" aria-hidden="true">6:30 PM – 8:30 PM on Monday through Saturday
 for appointments call: 04362-234279
 
-Visiting Consultants:
+<h4>Visiting Consultants:</h4>
 
 <i class="fa fa-user-md fa-1g" aria-hidden="true"></i> 1) Dr. Srinivas MDS – Orthodontist
 
