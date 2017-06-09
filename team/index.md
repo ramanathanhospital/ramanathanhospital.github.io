@@ -24,7 +24,7 @@ for appointments call: 04362-234279
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 5:30 PM – 9 PM Monday through Saturday
 
-for appointments call: 04362-230009
+for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> 04362-230009
 
  <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Sathish </h3> MD MSc (UK)  DLSHTM
 
@@ -36,6 +36,7 @@ for appointments call: 04362-230009
 <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Prakash </h3>MD (Physician) PGDip (Endocrinology & Diabetes, UK) PGDiab (Johns Hopkins) MMED (CMC, Vellore)
 
 <i>Thyroid, Diabetes & Family Physician</i>
+
 
 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Young Scientist Member of the European Association for the Study of Diabetes
 
@@ -58,7 +59,7 @@ for appointments call: 04362-230009
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 6:30 PM – 9:00 PM Monday through Thursday
 
-for appointments call: 04362-234279; 9486171643
+for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> 04362-234279; 9486171643
 
 
 
@@ -68,19 +69,21 @@ for appointments call: 04362-234279; 9486171643
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 10:30 AM – 1:30 PM on Sundays
 
+for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> 04362-230009
+
 
 
 <h5> Mannargudi Visit – SMK Medicals </h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 06:00 PM – 9: 00 PM on Saturdays
 
-
+for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> +91-84895-38031
 
 <h5> Pattukottai Visit – Makkal Marundhagam </h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 09:30 AM – 1:00 PM on Saturdays
 
-
+for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> +91-84891-73609; 04373-256243
 
 <h1> <u>Dental Care </u></h1>
 
