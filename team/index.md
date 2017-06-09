@@ -63,7 +63,7 @@ for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> 04362-234
 
 
 
-<h5> Dr. Ramanathan Memorial Clinic, South Main Street, Thanjavur </h5>
+<h5><i class="fa fa-hospital-o" aria-hidden="true"></i> Dr. Ramanathan Memorial Clinic, South Main Street, Thanjavur </h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 6:30 PM – 9:00 PM on Fridays
 
@@ -73,13 +73,13 @@ for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> 04362-230
 
 
 
-<h5> Mannargudi Visit – SMK Medicals </h5>
+<h5><i class="fa fa-plus-square" aria-hidden="true"></i> Mannargudi Visit – SMK Medicals </h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 06:00 PM – 9: 00 PM on Saturdays
 
 for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> +91-84895-38031
 
-<h5> Pattukottai Visit – Makkal Marundhagam </h5>
+<h5><i class="fa fa-plus-square" aria-hidden="true"></i> Pattukottai Visit – Makkal Marundhagam </h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 09:30 AM – 1:00 PM on Saturdays
 
@@ -91,7 +91,7 @@ for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> +91-84891
 <i>Dental Consultant</i>
 
 <h4><B>OPD Timings</B></h4>
-<h5>Dr. Ramanathan Hospital – MyDentist Clinic</h5>
+<h5><i class="fa fa-hospital-o" aria-hidden="true"></i> Dr. Ramanathan Hospital – MyDentist Clinic</h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"> 11:00 AM – 1:30 PM on Monday through Saturday
 
