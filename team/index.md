@@ -12,13 +12,13 @@ title: Our Team
 <i>Senior General Practitioner</i>
 
 <h4><u>OPD Timings</u></h4>
-<h5><i class="fa fa-hospital-o" aria-hidden="true"></i> Dr. Ramanathan Hospital, VOC Nagar</h5>
+<h5><i class="fa fa-hospital-o" aria-hidden="true"></i>  Dr. Ramanathan Hospital, VOC Nagar</h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 8 AM – 9:30 AM on All Days
 
-for appointments call: 04362-234279
+for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> 04362-234279
 
-<h5><i class="fa fa-hospital-o" aria-hidden="true"></i> Dr. Ramanathan Memorial Clinic, South Main Street</h5>
+<h5><i class="fa fa-hospital-o" aria-hidden="true"></i>  Dr. Ramanathan Memorial Clinic, South Main Street</h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 10:30 AM – 1:30 AM on All Days
 
@@ -26,7 +26,7 @@ for appointments call: 04362-234279
 
 for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> 04362-230009
 
- <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Sathish </h3> MD MSc (UK)  DLSHTM
+ <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Sathish MD MSc (UK) DLSHTM </h3>
 
 <h5><i>General Physician & Specialist Trainee in Infectious Diseases</i></h5>
 
@@ -53,7 +53,7 @@ for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> 04362-230
  
 
 <h4><u>OPD Timings</u></h4>
-<h5><i class="fa fa-hospital-o" aria-hidden="true"></i> Dr. Ramanathan Hospital, VOC Nagar, Thanjavur</h5>
+<h5><i class="fa fa-hospital-o" aria-hidden="true"></i>  Dr. Ramanathan Hospital, VOC Nagar, Thanjavur</h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 09:00 AM – 1:00 PM Monday through Friday
 
@@ -63,7 +63,7 @@ for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> 04362-234
 
 
 
-<h5><i class="fa fa-hospital-o" aria-hidden="true"></i> Dr. Ramanathan Memorial Clinic, South Main Street, Thanjavur </h5>
+<h5><i class="fa fa-hospital-o" aria-hidden="true"></i>  Dr. Ramanathan Memorial Clinic, South Main Street, Thanjavur </h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 6:30 PM – 9:00 PM on Fridays
 
@@ -73,13 +73,13 @@ for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> 04362-230
 
 
 
-<h5><i class="fa fa-plus-square" aria-hidden="true"></i> Mannargudi Visit – SMK Medicals </h5>
+<h5><i class="fa fa-hospital-o" aria-hidden="true"></i> Mannargudi Visit – SMK Medicals </h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 06:00 PM – 9: 00 PM on Saturdays
 
 for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> +91-84895-38031
 
-<h5><i class="fa fa-plus-square" aria-hidden="true"></i> Pattukottai Visit – Makkal Marundhagam </h5>
+<h5><i class="fa fa-hospital-o" aria-hidden="true"></i> Pattukottai Visit – Makkal Marundhagam </h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 09:30 AM – 1:00 PM on Saturdays
 
@@ -87,7 +87,7 @@ for appointments <i class="fa fa-phone-square" aria-hidden="true"></i> +91-84891
 
 <h1> <u>Dental Care </u></h1>
 
-<h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i>Dr. A. Usha BDS </h3>
+<h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. A. Usha BDS </h3>
 <i>Dental Consultant</i>
 
 <h4><B>OPD Timings</B></h4>
