@@ -9,9 +9,9 @@ title: Our Team
 
 <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i>  Dr. R. Kumar BSc MBBS </h3>
 
-<h4><i>Senior General Practitioner</i></h4>
+<h5><i>Senior General Practitioner</i></h5>
 
-<h5>OPD Timings</h5>
+<h6><u>OPD Timings</u></h6>
 <h5>Dr. Ramanathan Hospital, VOC Nagar</h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 8 AM – 9:30 AM on All Days
@@ -25,17 +25,15 @@ for appointments call: 04362-234279
 
 for appointments call: 04362-230009
 
- <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Sathish </h3>
- <h5>MD MSc (UK)  DLSHTM </h5>
+ <h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Sathish </h3> <h5>MD MSc (UK)  DLSHTM </h5>
 
-<h4><i>General Physician & Specialist Trainee in Infectious Diseases</i></h4>
+<h5><i>General Physician & Specialist Trainee in Infectious Diseases</i></h5>
 
 
 <h2> Thyroid & Diabetes Care </h2>
 
-<i class="fa fa-user-md fa-1x" aria-hidden="true"></i> <h3> Dr. K. Prakash </h3>
-<h5>MD (Physician) PGDip (Endocrinology & Diabetes, UK) PGDiab (Johns Hopkins) MMED (CMC, Vellore)</h5>
-<h4> <i>Thyroid, Diabetes & Family Physician</i></h4>
+<h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. K. Prakash </h3><h5>MD (Physician) PGDip (Endocrinology & Diabetes, UK) PGDiab (Johns Hopkins) MMED (CMC, Vellore)</h5>
+<h5> <i>Thyroid, Diabetes & Family Physician</i></h5>
 
 <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Young Scientist Member of the European Association for the Study of Diabetes
 
@@ -51,7 +49,7 @@ for appointments call: 04362-230009
 
  
 
-<h5><b> OPD Timings </b><h5>
+<h6><u>OPD Timings</u></h6>
 <h5> Dr. Ramanathan Hospital, VOC Nagar, Thanjavur</h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 09:00 AM – 1:00 PM Monday through Friday
@@ -65,6 +63,7 @@ for appointments call: 04362-234279; 9486171643
 <h5> Dr. Ramanathan Memorial Clinic, South Main Street, Thanjavur </h5>
 
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 6:30 PM – 9:00 PM on Fridays
+
 <i class="fa fa-arrow-circle-right" aria-hidden="true"></i> 10:30 AM – 1:30 PM on Sundays
 
 
@@ -81,9 +80,9 @@ for appointments call: 04362-234279; 9486171643
 
 
 
-# Dental Care #
+<h1> Dental Care </h1>
 
-<i class="fa fa-user-md fa-2x" aria-hidden="true"></i> <h3> Dr. A. Usha BDS </h3>
+<h3><i class="fa fa-user-md fa-1x" aria-hidden="true"></i> Dr. A. Usha BDS </h3>
 <h4><i>Dental Consultant</i></h4>
 
 <h5><B>OPD Timings</B></h5>
