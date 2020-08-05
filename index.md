@@ -9,3 +9,11 @@ He emphasized on the primacy of the patient over anything else and he strongly b
 
 Our values are based on his foundation and naturally, we are quite proud of it.
 
+#UPDATE: 05 AUGUST 2020
+>Dr K Prakash MD (Physician) MMED PGDip (Endo & Diabetes) & Dr K Sathish (Infectious Diseases) maybe **consulted online through videocall** by [downloading Healthplix app!](https://app.healthplix.com).
+Use the same phone number you used to register with our clinic previously.
+To consult **Dr K Prakash** use doctor code: HP18224 to connect to our clinic and book appoinments online
+
+>for **Dr K Sathish** use doctor cose HP18251
+
+#For queries, please contact **+919486171643**
